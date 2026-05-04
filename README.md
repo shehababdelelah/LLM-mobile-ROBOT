@@ -17,10 +17,9 @@ This project introduces a novel framework that embeds **Large Language Models (L
 
 ## 🎥 Video Demo
 
-<video src="assets/Video Project.mp4" controls width="600"></video>
+<video src="assets/Video Project.mp4" controls poster="assets/video_thumbnail.png" width="600"></video>
 
-*Simulation of LLM‑based replanning in action (Gazebo + RViz).*
-
+*Simulation of LLM‑based replanning in action — click play to watch.*
 ---
 
 ## 🗺️ Path Planning & Replanning Results
