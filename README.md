@@ -17,12 +17,9 @@ This project introduces a novel framework that embeds **Large Language Models (L
 
 ## 🎥 Video Demo
 
-[![Simulation Demo](https://img.youtube.com/vi/yf3nhskqhoY/0.jpg)](https://youtu.be/yf3nhskqhoY)
+<video src="assets/Video Project.mp4" controls width="600"></video>
 
-*Click the image to watch the LLM‑based replanning in action.*
-
-> If you prefer to embed an MP4 file directly, place `assets/Video Project.mp4` in the repository and use:  
-> `<video src="assets/Video Project.mp4" controls width="600"></video>`
+*Simulation of LLM‑based replanning in action (Gazebo + RViz).*
 
 ---
 
