@@ -14,11 +14,11 @@ This project introduces a novel framework that embeds **Large Language Models (L
 > The proposed approach integrates real‑time obstacle avoidance and voice‑command interaction. Experimental results across multiple environments demonstrate that our Llama3.1‑based framework significantly improves path planning efficiency, waypoint generation success rates, and collision avoidance.
 
 🎥 **Video Demo**  
-[![Simulation Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[![Simulation Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/yf3nhskqhoY)  
 *Click the image to watch the LLM‑based replanning in action. (Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.)*
 
-> If you prefer to embed an MP4 file directly, place `assets/simulation_demo.mp4` in the repository and use:
-> `<video src="assets/simulation_demo.mp4" controls width="600"></video>`
+> If you prefer to embed an MP4 file directly, place `assets/Video Project.mp4` in the repository and use:
+> `<video src="assets/Video Project.mp4" controls width="600"></video>`
 
 ---
 
