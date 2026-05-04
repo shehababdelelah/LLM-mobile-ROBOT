@@ -29,7 +29,7 @@ The robot starts at **(10, 1)** and must reach **(10, 29)**. When obstacles bloc
 | **Initial Path (Cycle 1)** | **Validated Path (Cycle 1)** |
 |:---:|:---:|
 | *LLM‑generated candidate waypoints* | *Final validated trajectory* |
-| ![Initial candidate](assets/initial_path_candidate.png) | ![Initial validated](assets/initial_path_validated.png) |
+| ![Initial candidate](assets/20260504_145553_119_initial_cycle_1_attempt_1_deterministic_candidate.png) | ![Initial validated](assets/20260504_145554_382_initial_cycle_1_attempt_1_deterministic_validated.png) |
 
 | **Replan Cycle 2 – Candidate** | **Replan Cycle 2 – Validated** |
 |:---:|:---:|
