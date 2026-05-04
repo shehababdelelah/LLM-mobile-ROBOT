@@ -15,11 +15,13 @@ This project introduces a novel framework that embeds **Large Language Models (L
 
 ---
 
-## 🎥 Video Demo
+## 🎥 Simulation Demo
 
-<video src="assets/Video Project.mp4" controls poster="assets/video_thumbnail.png" width="600"></video>
+![LLM-based robot path planning simulation](assets/simulation_demo.gif)
 
-*Simulation of LLM‑based replanning in action — click play to watch.*
+*Autoplaying preview (GIF). The robot navigates from (10,1) to (10,29) while avoiding obstacles.*
+
+[📹 Download full MP4 video](assets/Video%20Project.mp4)
 ---
 
 ## 🗺️ Path Planning & Replanning Results
