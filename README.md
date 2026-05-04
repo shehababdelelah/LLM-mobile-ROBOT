@@ -34,12 +34,12 @@ The robot starts at **(10, 1)** and must reach **(10, 29)**. When obstacles bloc
 | **Replan Cycle 2 – Candidate** | **Replan Cycle 2 – Validated** |
 |:---:|:---:|
 | *New waypoints after obstacle detection* | *Adjusted collision‑free path* |
-| ![Cycle2 candidate](assets/replan_cycle2_candidate.png) | ![Cycle2 validated](assets/replan_cycle2_validated.png) |
+| ![Cycle2 candidate](assets/20260504_145656_850_replan_cycle_2_attempt_1_deterministic_candidate.png) | ![Cycle2 validated](assets/20260504_145658_659_replan_cycle_2_attempt_1_deterministic_validated.png) |
 
 | **Replan Cycle 3 – Candidate** | **Replan Cycle 3 – Validated** |
 |:---:|:---:|
 | *Multiple obstacle waypoints* | *Final safe path* |
-| ![Cycle3 candidate](assets/replan_cycle3_candidate.png) | ![Cycle3 validated](assets/replan_cycle3_validated.png) |
+| ![Cycle3 candidate](assets/20260504_145807_687_replan_cycle_3_attempt_1_deterministic_candidate.png) | ![Cycle3 validated](assets/20260504_145809_356_replan_cycle_3_attempt_1_deterministic_validated.png) |
 
 > *All plots show coordinates in meters. The robot dynamically adjusts its plan when obstacles are detected (e.g., at x ≈ 10, y ≈ 15–20).*
 
