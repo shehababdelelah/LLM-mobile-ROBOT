@@ -52,7 +52,7 @@ The robot starts at **(10, 1)** and must reach **(10, 29)**. When obstacles bloc
 - 🧠 **LLM‑Powered Planning** – Uses Llama3.1, Qwen2.5, or Mathstral for waypoint generation  
 - 🗣️ **Voice Commands** – Integrated Google Speech Recognition for intuitive human‑robot interaction  
 - 🔄 **Real‑time Replanning** – Dynamically adjusts paths in response to obstacles  
-- 🎮 **Simulation Ready** – Full ROS + Gazebo integration with TurtleBot3  
+- 🎮 **Simulation Ready** – Full ROS + Gazebo integration with mobile robot 
 - 📊 **Multi‑Model Testing** – Easily switch between different LLM backends  
 
 ---
